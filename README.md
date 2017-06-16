@@ -1,3 +1,3 @@
 # pubfiles
-echo "Here is my repo used to share files"
-echo "enjoy!"
+"Here is my repo used to share files"
+"enjoy!"
